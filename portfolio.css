@@ -1,0 +1,145 @@
+#twitterIcon{
+  color:rgb(0, 172, 237);
+}
+
+#gitHubIcon{
+  color:rgb(102, 43, 129);
+}
+
+#linkedInIcon{
+  color:rgb(0, 127, 178);
+}
+
+#instagramIcon{
+  color:rgb(251, 57, 66);
+}
+
+.header{
+   background: url("http://wallpapercave.com/wp/QXj1yIN.jpg") no-repeat top center fixed;
+   background-size: cover;
+   height: 200px;
+   width: 100%;
+   margin: 0;
+   padding: 0;
+   color: white;
+   text-align: center;
+   font-size: 10px;
+}
+
+.block {
+  background-color: black;
+  opacity: .7;
+  padding: 10px;
+  width: 50%;
+  margin-right: auto;
+  margin-left: auto;
+  border-radius:10px;
+}
+
+.nav-pills {
+  font-family: Fjalla;
+  font-size: 1.7em;
+  background-color: black;
+  margin-bottom: 10%;
+}
+
+.body {
+  background-color: white;
+  font-family: Fjalla;
+  color: white;
+}
+
+h1 {
+  padding: 5px;
+  margin-top: 10px;
+  font-size: 7em;
+  color: silver;
+}
+
+h3 {
+  font-family: Lobster;
+  color: red;
+}
+
+.btn-default {
+  background-color: black;
+  border-color: black;
+  color: #337ab7;
+  font-size: 1.5em;
+}
+
+paddingBTN{
+ /* padding-top:25;
+  padding-bottom:25;*/
+  width:200px;
+  margin-bottom:25px;
+}
+
+.paddingTop{
+  padding-top:2%;
+  padding-bottom:2%;
+}
+
+.footer{
+  background-color:black;
+  padding-bottom:2%;
+}
+
+.pageOne {
+  /*background: url("http://wallpapercave.com/wp/QXj1yIN.jpg");
+  background-size: cover;*/
+  padding-bottom:10%;
+  /*background-position: center;*/
+}
+
+.pageTwo {
+  /*background: url("https://s-media-cache-ak0.pinimg.com/originals/fd/4f/86/fd4f86725db6ae97ba18cdf537d95dbc.jpg");*/
+  /*background-size: cover;*/
+  height: 800px;
+  padding-top:5%;
+  padding-bottom:5%;
+}
+
+#me {
+  padding-left: 5%;
+  padding-right: 5%;
+}
+
+#pg2h1{
+  color:white;
+}
+p {
+  font-size: 2.2em;
+  color:red;
+}
+
+.pageThree {
+  /*background: url("https://images3.alphacoders.com/438/43865.jpg");*/
+  /*background: cover;*/
+  padding-top:5%;
+  padding-bottom:5%;
+}
+
+#relevantWork{
+  padding-top: 5%;
+}
+
+#pg3h1{
+  color:white;
+  /*font-family:Lobster;*/
+}
+
+#pg3h2{
+  color:red;
+  font-family: Lobster;
+}
+
+.pageFour{
+  /*background:url("http://wallpapercave.com/wp/GProxpt.jpg");*/
+  /*background:cover;*/
+  padding-top:5%;
+}
+
+.footer{
+  font-size:15px;
+}
